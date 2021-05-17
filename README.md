@@ -1,3 +1,1 @@
-My name is Njoki
-I love dogs
-Arbitrary Changes
+This is a new README file
